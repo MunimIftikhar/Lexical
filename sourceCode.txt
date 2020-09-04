@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int _num1E=10.19;
+	case num=20.4.4;
+ 	cout << num1 + num;
+	return 0;
+	if(rr=<10)
+	{
+		asm else new typename inline
+	}
+}
